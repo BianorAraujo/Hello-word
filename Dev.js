@@ -1,3 +1,4 @@
-Teste
-Teste2
-Teste Leandro
+
+function Teste(teste){
+    var a = 1;
+}
